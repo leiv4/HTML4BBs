@@ -1,0 +1,58 @@
+body {
+  color: rgb(44, 44, 44);
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  margin: 0px;
+}
+section {
+  width: 80%;
+  margin: 0 auto;
+  min-height: 70vh;
+}
+h1 {
+  font-weight: 700;
+}
+a {
+  color: inherit;
+}
+footer p {
+  text-align: right;
+  padding: 30px;
+}
+footer {
+  background-color: burlywood;
+  height: 200px;
+}
+strong {
+  color: black;
+}
+p {
+  line-height: 20px;
+  letter-spacing: 2px;
+  text-align: justify;
+  width: 100%;
+}
+ul {
+  display: inline;
+  float: right;
+}
+ul li {
+  display: inline-block;
+}
+nav ul li a {
+  background-color: green;
+  text-decoration: none;
+  padding: 20px;
+  color: antiquewhite;
+}
+nav ul li a:hover {
+  color: black;
+}
+.logo {
+  width: 100px;
+}
+.box {
+  width: 48%;
+  margin: 1%;
+  float: left;
+}
